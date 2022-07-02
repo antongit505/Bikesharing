@@ -69,5 +69,5 @@ further analysis of adding up all the mid color marks and compare them to the ad
 
 * A poll could be launched to know the purpose of the use of the bike, with options like "commute to work", "recreation", or "sport" among other options and then plot the results to understand more at the users of the service.
 
-Story in Tableau: <a href='https://public.tableau.com/app/profile/jesus.antonio.ramos/viz/NYCCitibikeanalysis_16567007846910/NYCcitibike?publish=ye'> Citibike Analysis in New York </a> 
+Story in Tableau: <a href='https://public.tableau.com/app/profile/jesus.antonio.ramos/viz/NYCCitibikeanalysis_16567007846910/NYCcitibike?publish=yes'> Citibike Analysis in New York </a> 
 
