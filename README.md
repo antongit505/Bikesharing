@@ -8,6 +8,8 @@ First we will study the information about citibike to know its behavior and then
 
 ## Results
 
+Story in Tableau: <a href='https://public.tableau.com/app/profile/jesus.antonio.ramos/viz/NYCCitibikeanalysis_16567007846910/NYCcitibike?publish=yes'> Citibike Analysis in New York </a> 
+
 ### Type of customers and Peak hours
 
 The information shows that most of the customer type are subscribers and males, who use the most the service.<br/> The bar graph shows that peak hours where bikes are most used coincide with working hours.
@@ -68,6 +70,4 @@ This visualization shows at the top-left the most used bycicle while at the bott
 further analysis of adding up all the mid color marks and compare them to the addition of darker ones would help to understand this information better.
 
 * A poll could be launched to know the purpose of the use of the bike, with options like "commute to work", "recreation", or "sport" among other options and then plot the results to understand more at the users of the service.
-
-Story in Tableau: <a href='https://public.tableau.com/app/profile/jesus.antonio.ramos/viz/NYCCitibikeanalysis_16567007846910/NYCcitibike?publish=yes'> Citibike Analysis in New York </a> 
 
